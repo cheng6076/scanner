@@ -2,9 +2,16 @@
 
 ## Introduction
 The input is a sentence, while the output is a tree-structured logical form, for which we use s-expression to represent. For example:
+- Input: *Which college did Obama go to?*
+- Output: `(and (Type University) (Education BarackObama))`
 
 ## Training Data
 The training data consites of either sentences paired with logical forms (code in the main folder, e.g. for GeoQuery), or sentences paired with answers (code in the kb folder or table folder, e.g., for WebQA, GraphQA and Spades)
+
+## Domains
+Knowledge base (kb\_simple) or table domain (table).
+Instructions for generating domain-specific input data will be uploaded.
+
 
 ## Citation
 If you use the tool in your work, please cite
