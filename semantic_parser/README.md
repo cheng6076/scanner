@@ -24,4 +24,4 @@ If you use the tool in your work, please cite
     }
 
 ## Liscense
-The code is liscensed by the University of Edinburgh under the Apache License, Version 2.0.
+The code is licensed by the University of Edinburgh under the Apache License, Version 2.0.
